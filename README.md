@@ -5,6 +5,6 @@
 
 
 
-<h2>link to the video:</h2>
+<h2>Link to the video:</h2>
 <h3>https://drive.google.com/file/d/1N0KmKPHLthVLaTHBBqNYit8GVrG_AIRA/view?usp=sharing </h3>
 
